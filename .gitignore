@@ -1,0 +1,4 @@
+.metadata/
+spring-boot-swagger2-example/.mvn/
+*.project
+Servers/
