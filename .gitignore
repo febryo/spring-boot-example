@@ -2,3 +2,6 @@
 spring-boot-swagger2-example/.mvn/
 *.project
 Servers/
+.recommenders/
+spring-boot-swagger2-oracle/.mvn/wrapper/maven-wrapper.jar
+spring-boot-swagger2-oracle/.mvn/
